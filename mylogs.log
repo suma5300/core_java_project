@@ -1,0 +1,4 @@
+[INFO ] 2022-09-23 20:31:24.751 [main]  - Employee Added : true
+[INFO ] 2022-09-23 20:31:36.008 [main]  - Employee [firstName=rakesh, lastName=chirunomulla, address=kodad, emailAddress=rakesh1@gmail.com, phoneNumber=123456, dateOfBirth=2000-05-03, weddingDate=2023-01-05]
+[INFO ] 2022-09-23 20:32:13.718 [main]  - Employee Updated : true
+[INFO ] 2022-09-23 20:33:09.135 [main]  - Employee deleted : true
